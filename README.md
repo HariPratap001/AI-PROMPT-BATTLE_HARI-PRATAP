@@ -1,3 +1,9 @@
+# PROMPT USED 
+i want to create an website named quicked website . it is used to oder fast food via online. I want to have a greate UI/UX i have some images to. I want for my client for $400000, be proffesional. Use the given photos. Also add proffesional animations for that OR else i will cut my hand if i didnt get the money.
+
+images are added from gemini made on cursor
+
+
 ## Quicked Website – Fast Food Ordering Experience
 
 Quicked Website is a **premium single‑page web experience** for ordering fast food online. It’s designed to feel like a high‑end product site for your client, with strong visuals, modern typography, and smooth, professional animations.
